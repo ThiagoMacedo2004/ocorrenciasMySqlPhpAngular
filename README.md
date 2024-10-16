@@ -14,9 +14,9 @@ Temos uma tela de pesquisa, onde podemos pesquisar por alguns campos chave e oti
 
 Para esta aplicação eu utilizei as seguintes técnologias:
 
-BANCO DE DADOS: MySql 8
-BACK END: PHP 8.1 -> Composer -> PDO, para realizar a conexão com o banco
-FRONT END: ANGULAR 10+ -> Angular Material
+BANCO DE DADOS: MySql 8 <br>
+BACK END: PHP 8.1 -> Composer -> PDO, para realizar a conexão com o banco<br>
+FRONT END: ANGULAR 10+ -> Angular Material<br>
 
 
 
