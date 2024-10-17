@@ -1,0 +1,17 @@
+{
+    "name": "thiago/ocorrencias_php",
+    "autoload": {
+        "psr-4": {
+            "Thiago\\OcorrenciasPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThiagoMacedo2004",
+            "email": "tsouzamacedo@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}

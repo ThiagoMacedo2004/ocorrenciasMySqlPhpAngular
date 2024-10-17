@@ -1,0 +1,6 @@
+LOJA;OCORRENCIA;MOTIVO;SUBMOTIVO;DESCRICAO;TRIAGEM;DATA;"DATA ATENDIMENTO";STATUS
+Central;12345678978;"Manutanção Informatica";"CPU não liga - CAIXA";"Boa noite ! Estamos com problema nos ramais da loja. Aparelho esta com o cabo danificado, cliente tropeçou e acabou rompendo o cabo, sendo assim, precisamos de outro aparelho, por a loja não pode ficar sem aparelho para ligar e receber ligações dos cliente e da central.";10/06/2023;-;Aberta
+"Loja 004";12345678945645;"Manutanção Informatica";"CPU não liga - CAIXA";"Boa noite ! Após um queda de energia, o micro do caixa não voltou a ligar. Já testamos a toma, e esta ok, carregando o celular normalmente, porem, o micro não apresenta nenhum sinal. Verificar urgente, pois, precisamos realizar os GEDs de vários pedidos.";03/06/2023;-;Aberta
+"Loja 044";7894564561;Outros;"Entregar materiais";"Bom dia ! Por favor, verificar o micro do caixa, pois, após uma queda de energia, o micro não voltou a ligar.... Já verificamos a tomada, e, esta funcionando.
+Bom dia ! Por favor, verificar o micro do caixa, pois, após uma queda de energia, o micro não voltou a ligar.... Já verificamos a tomada, e, esta funcionando.
+";28/05/2023;-;Aberta
